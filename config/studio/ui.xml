@@ -214,7 +214,7 @@
                                             <id>date</id>
                                             <name>Date</name>
                                             <description>A date sample</description>
-                                            <type>input</type>
+                                            <type>date-time</type>
                                             <helpText>Date time helper text</helpText>
                                         </date>
                                     </fields>
