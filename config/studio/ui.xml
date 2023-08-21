@@ -211,7 +211,7 @@
                                             </helpText>
                                         </name>
                                         <name>
-                                            <id>modifiedData</id>
+                                            <id>date</id>
                                             <name>Date</name>
                                             <description>A date sample</description>
                                             <type>date-time</type>
