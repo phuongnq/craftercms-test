@@ -215,7 +215,7 @@
                                             <name>Date</name>
                                             <description>A date sample</description>
                                             <type>date-time</type>
-                                            <tz>Europe/Berlin</tz>
+                                            <timezone>Europe/Berlin</timezone>
                                             <helpText>Date time helper text</helpText>
                                         </currentTime>
                                     </fields>
