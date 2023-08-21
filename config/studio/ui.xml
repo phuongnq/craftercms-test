@@ -210,6 +210,13 @@
                                                 last name.
                                             </helpText>
                                         </name>
+                                        <name>
+                                            <id>date</id>
+                                            <name>Date</name>
+                                            <description>A date sample</description>
+                                            <type>date-time</type>
+                                            <helpText>Date time helper text</helpText>
+                                        </name>
                                     </fields>
                                 </configuration>
                             </widget>
