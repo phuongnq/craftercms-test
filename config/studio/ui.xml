@@ -210,14 +210,14 @@
                                                 last name.
                                             </helpText>
                                         </name>
-                                        <date>
+                                        <createdDate>
                                             <id>date</id>
                                             <name>Date</name>
                                             <description>A date sample</description>
                                             <type>date-time</type>
                                             <tz>Europe/Berlin</tz>
                                             <helpText>Date time helper text</helpText>
-                                        </date>
+                                        </createdDate>
                                     </fields>
                                 </configuration>
                             </widget>
